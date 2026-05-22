@@ -1,4 +1,4 @@
-## How to contribute to Good First Issues
+## \How to contribute to Good First Issues
 
 Thank you for considering contributing to Good First Issues!
 
